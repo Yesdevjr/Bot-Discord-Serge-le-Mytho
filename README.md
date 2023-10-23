@@ -7,6 +7,7 @@ Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour person
 - Le bot Discord est développé en JavaScript avec l'utilisation de la bibliothèque Discord.js, et BlaguesAPI.
 - Il offre une expérience de divertissement unique pour les serveurs Discord, adaptée à la personnalité de chaque canal.
 - Le projet est ouvert à la contribution de développeurs passionnés par l'humour.
+- Je partage le code source du bot Discord en créant des 'pull requests' (demandes de fusion) dans le dépôt GitHub, et je vous encourage à contribuer si vous êtes intéressé par le développement de ce projet.
 
 ## Fonctionnalités Techniques :computer:
 
@@ -30,4 +31,6 @@ Ce projet est sous licence [Yesdevjr].
 
 ## Contact :email:
 
+
 Pour toute question ou information supplémentaire, veuillez me contacter [https://yesjs.myportfolio.com/contact]
+

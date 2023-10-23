@@ -1,36 +1,32 @@
-# Serge le Mytho - Bot Discord d'Humour Personnalisé
+# Serge le Mytho - Bot Discord d'Humour Personnalisé :joy:
 
-Serge le Mytho est un bot Discord unique qui ajoute de l'humour personnalisé à votre serveur. Ce bot utilise l'API de blagues pour raconter des blagues et des anecdotes amusantes, adaptées à l'ambiance de chaque canal. De plus, Serge peut égayer vos membres en partageant des blagues à des moments spécifiques de la journée ou quotidiennement, apportant ainsi une touche d'humour régulière.
+Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour personnalisé à votre serveur. Il utilise l'API de blagues pour raconter des blagues et des anecdotes amusantes, adaptées à l'ambiance de chaque canal. De plus, il peut être programmé pour partager des blagues à des moments spécifiques de la journée ou quotidiennement, ajoutant une touche d'humour régulière à la communauté.
 
-## Fonctionnalités
+## Présentation :bulb:
 
-- Adaptation de l'humour au canal spécifique.
+- Le bot Discord est développé en JavaScript avec l'utilisation de la bibliothèque Discord.js.
+- Il offre une expérience de divertissement unique pour les serveurs Discord, adaptée à la personnalité de chaque canal.
+- Le projet est ouvert à la contribution de développeurs passionnés par l'humour.
+
+## Fonctionnalités Techniques :computer:
+
+- Adaptation de l'humour au canal spécifique grâce à des commandes spéciales.
 - Programmation de blagues à des heures précises de la journée ou quotidiennement.
 
-## Prérequis
+## Technologies Utilisées :wrench:
 
-Avant de lancer Serge le Mytho, assurez-vous d'avoir Node.js installé. Consultez [le guide d'installation de Node.js](https://nodejs.org/) pour obtenir plus d'informations.
+- JavaScript
+- Node.js
+- Discord.js
 
-## Installation
+## Déploiement :rocket:
 
-1. Clonez ce dépôt sur votre machine.
-2. Exécutez `npm install` pour installer les dépendances.
-3. Configurez votre token Discord dans un fichier `config.json`.
-4. Exécutez `node bot.js` pour lancer le bot.
+Pour déployer le bot, veuillez suivre les instructions dans le fichier `INSTALLATION.md`.
 
-## Utilisation
+## Licence :page_facing_up:
 
-- Ajoutez Serge le Mytho à votre serveur Discord.
-- Personnalisez l'humour de chaque canal avec des commandes spécifiques.
+Ce projet est sous licence [insérer la licence de votre choix].
 
-## Contribuer
+## Contact :email:
 
-Si vous souhaitez contribuer à ce projet, veuillez créer une pull request avec vos améliorations ou nouvelles fonctionnalités.
-
-## Licence
-
-Ce projet est sous licence [Yesdevjr].
-
-## Contact
-
-Pour toute question ou information supplémentaire, veuillez me contacter à [https://yesjs.myportfolio.com/contact].
+Pour toute question ou information supplémentaire, veuillez me contacter à [votre adresse e-mail] ou via [votre profil GitHub].

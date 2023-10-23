@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yesdev",
+  "license": "ISC",
+  "dependencies": {
+    "blagues-api": "^2.1.1",
+    "discord.js": "^14.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}

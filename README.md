@@ -1,6 +1,6 @@
 # Serge le Mytho - Bot Discord d'Humour Personnalisé :joy:
 
-Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour personnalisé à votre serveur. Il utilise l'API de blagues pour raconter des blagues et des anecdotes amusantes, adaptées à l'ambiance de chaque canal. De plus, il peut être programmé pour partager des blagues à des moments spécifiques de la journée ou quotidiennement, ajoutant une touche d'humour régulière à la communauté.
+Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour personnalisé à votre serveur, à la manière de la série Canal+ "Serge le Mytho". Il utilise l'API de blagues pour raconter des blagues et des anecdotes amusantes, adaptées à l'ambiance de chaque canal. De plus, il peut être programmé pour partager des blagues à des moments spécifiques de la journée ou quotidiennement, ajoutant une touche d'humour régulière à la communauté.
 
 ## Présentation :bulb:
 

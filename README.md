@@ -11,7 +11,7 @@ Serge le Mytho est un bot Discord unique conçu pour apporter de l'humour person
 ## Fonctionnalités Techniques :computer:
 
 - Adaptation de l'humour au canal spécifique grâce à des commandes spéciales.
-- Programmation de blagues à des heures précises de la journée ou quotidiennement.
+- Il communique en rédigeant des messages dans le canal Discord appelé Serge.
 
 ## Technologies Utilisées :wrench:
 
